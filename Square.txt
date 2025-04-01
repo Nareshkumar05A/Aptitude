@@ -1,0 +1,67 @@
+Square values:
+1 - 1
+2 - 4
+3 - 9
+4 - 16
+5 - 25
+6 - 36
+7 - 49
+8 - 64
+9 - 81
+10 - 100
+
+End with 5:
+
+   We can take a two-digit number that ends in 5. First, square the last digit (5² = 25). Then, take the digit before 5, multiply it by its next number, and place the result before 25 to get the final answer.
+
+Exmaple 1:
+25 - 5 * 5 = 25
+2 * 3 = 6
+the answer is 625.
+
+Example 2:
+
+115 - 5 * 5 = 25
+then this three digit number so delete the on number ony before 5.
+11 * 12 = 132
+The answer is 13225.
+
+End with 0:
+
+    Count the number of zeros in the given number. Then, take the digit before the zeros and square it. Since squaring increases the number of zeros, double the count of zeros before appending them to the squared result to get the final answer.
+
+Example 1:
+30 ^ 2 = Here has one 0
+3 * 3 = 9
+The answer is 900.
+
+Example 2:
+40 ^ 3 = Here has one 0
+4 * 4 = 16
+The answer is 64,000.
+
+Other number:
+
+    This problem can be solved using the formula **(a + b)² = a² + b² + 2ab**. Here, identify **a** as the digit before the zeros and **b** as the zeros. Then, apply the formula to compute the square and obtain the final result.
+
+Example 1:
+23 = 0409  - this is sqaure the 2 values 
+2*a*b - 12
+
+0409
+ 12 
+0329
+
+Example 2:
+43 = 1609 
+2*a*b - 24
+
+1609
+ 24
+1849
+
+
+
+
+
+
