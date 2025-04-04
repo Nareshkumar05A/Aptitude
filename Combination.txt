@@ -1,0 +1,35 @@
+Combination:
+
+       A combination refers to the selection of items without considering the order. Unlike permutations, the order does not matter in combinations.
+	
+ ___________         ___________         ___________
+|           |       |           |       |           | 
+|   A       |       |    B      |       |     C     |    
+|           |       |           |       |           |
+|___________|       |___________|       |___________|
+
+
+Possible Selections:
+
+AB
+
+AC
+
+BC
+
+Permutation formula:
+    ________________________
+   |                        |
+   |   n            n!      |
+   |    C   =  -----------  |
+   |     r      (n-r)!r!    |
+   |________________________|
+
+Possibilities is called combination:
+
+     n = Total
+     r = Selection
+
+ 
+    
+      
