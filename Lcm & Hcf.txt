@@ -1,0 +1,110 @@
+Lcm - Least common multipler
+
+    To find the LCM, first determine the prime factorization of each number separately. Then, compare the prime factors of both numbers, take all the distinct prime numbers, select the highest power of each, and multiply them to get the final answer.
+
+Example 1:
+The number is 12 & 45
+
+12 - 3 * 2 * 2 = 3 * 2 ^ 2
+
+45 - 3 * 3 * 5 = 3 ^ 2 * 5
+
+Lcm = 3 ^ 2 * 2 ^ 2 * 5
+
+The LCM is 180.
+
+Example 2:
+The number is 15 & 72
+
+15 - 3 * 5
+
+72 - 6 * 12
+     3 * 2 * 3 * 4
+     3 * 2 * 3 * 2 * 2 
+
+LCM = 3 ^ 2 * 2 ^ 3 * 5
+
+The LCM is 360.
+
+
+Example 3:
+The number is 56 & 42
+
+56 - 8 * 7
+     2 * 2 * 2 * 7  = 2 ^ 3 * 7
+
+42 - 6 * 7
+     3 * 2 * 7  = 3 * 2 * 7
+
+Lcm = 2 ^ 3 * 3 * 7
+
+The LCM is 168.
+
+
+
+Hcf - Highest common factor
+
+    To find the **HCF**, first determine the prime factorization of each number separately. Then, compare the prime factors of both numbers, take only the common prime numbers, select the lowest power of each, and multiply them to get the final answer.
+
+
+Example 1:
+The number is 12 & 45
+
+12 - 3 * 2 * 2 = 3 * 2 ^ 2
+
+45 - 3 * 3 * 5 = 3 ^ 2 * 5
+
+The LCM is 180.
+
+Example 2:
+The number is 15 & 72
+
+15 - 3 * 5
+
+72 - 6 * 12
+     3 * 2 * 3 * 4
+     3 * 2 * 3 * 2 * 2 
+
+Hcf = 3
+
+Example 3:
+The number is 56 & 42
+
+56 - 8 * 7
+     2 * 2 * 2 * 7  = 2 ^ 3 * 7
+
+42 - 6 * 7
+     3 * 2 * 7  = 3 * 2 * 7
+
+Hcf = 2 * 7
+
+The HCF is 14.
+
+
+
+Practice questions:
+
+1.What is the hcf of 42,168,210.
+
+Ans = 210
+
+2.Find the hcf of 110,1880 and 540
+
+Ans = 10
+
+3.Find the Lcm of 15,24,32
+
+Ans = 1440
+
+4.Find the lcm of 36,18,144
+
+Ans Lcm = 144
+
+Ans hcf = 18
+
+
+
+
+
+
+
