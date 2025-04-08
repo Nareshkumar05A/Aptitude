@@ -1,0 +1,49 @@
+Unit                   EndWith
+1                        1
+9
+
+2                        4
+8
+
+3                        9
+7
+
+4                         6
+6
+
+5                         5
+
+0                         0
+
+
+ProductNo <=FirstNO -> Max
+ProductNo > FirstNo -> Min
+
+Example 1:
+sqrt of 144
+
+12    1 * 2 = 2 < 1
+18    1 * 8 = 8 < 1
+
+we can take min value
+Formula based on the answer is 12.
+
+Example 2:
+sqrt of 529
+
+23   2 * 3 = 6 < 5
+27   1 * 8 = 8 < 5
+
+we can take min value
+Formula based on the answer is 23.
+
+Example 3:
+sqrt of 1156
+
+34    3 * 4 = 12 > 11
+36    3 * 6 = 18 > 11
+
+we can take min value
+Formula based on the answer is 34.
+
+
