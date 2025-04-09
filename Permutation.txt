@@ -1,0 +1,41 @@
+Perutation:
+
+       Permutation refers to the arrangement of items in a specific order. The order of elements matters in permutations. The formula for calculating permutations is:
+	
+ ___________         ___________         ___________
+|           |       |           |       |           | 
+|   A       |       |    B      |       |     C     |    
+|           |       |           |       |           |
+|___________|       |___________|       |___________|
+
+
+Possible Arrangements:
+
+AB
+
+AC
+
+BA
+
+BC
+
+CA
+
+CB
+
+Permutation formula:
+    ______________________
+   |                      |
+   |   n          n!      |
+   |    P   =  --------   |
+   |     r      (n-r)!    |
+   |______________________|
+
+Possibilities is called permutation:
+
+     n = Total
+     r = Selection
+
+ 
+    
+      
