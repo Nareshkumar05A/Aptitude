@@ -1,0 +1,159 @@
+LCM and HCF
+
+1. The LCM of two numbers is 864
+ and their HCF is 144. If one of
+ the number is 288, the other
+ number is :
+ (1)576 (2)1296
+ (3)432 (4)144
+
+Ans:
+
+Lcm = 864
+Hcf = 144
+one number = 288
+
+864 * 144 / 288 
+ Ans = 432.
+
+ 2. LCM of two numbers is 225 and
+ their HCF is 5. If one number is
+ 25, the other number will be:
+ (1)5 (2)25
+ (3)45 (4)225
+
+Lcm = 225
+Hcf = 5
+one number = 25
+
+225 * 5 / 25
+Ans = 45
+
+ 3. The L.C.M. of two numbers is
+ 1820 and their H.C.F. is 26. If
+ one number is 130 then the other
+ number is :
+ (1)70 (2)1690
+ (3)364 (4)1264
+
+Lcm = 1820
+Hcf = 26
+one number = 130
+
+1820 * 26 / 130 
+Ans = 364
+
+4. The LCM of two numbers is
+ 1920 and their HCF is 16. If one
+ of the number is 128, find the
+ other number.
+ (1) 204 (2)240
+ (3) 260 (4)320
+
+Lcm = 1920
+Hcf = 16
+one number = 128
+
+1920 * 16 / 128
+Ans = 240
+
+ 5. The HCF of two numbers 12906
+ and 14818 is 478. Their LCM is
+ (1) 400086 (2)200043
+ (3) 600129 (4) 800172
+
+Hcf = 12906
+Product of two number = 12906 * 14818
+12906 * 14818 / 478
+Ans = 400086
+
+ 6.The H.C.F. and L.C.M. of two 2
+digit numbers are 16 and 480 re
+spectively. The numbers are:
+ (1)40, 48 (2)60, 72
+ (3)64, 80 (4)80, 96
+
+ 7. The HCF of two numbers is 16
+ and their LCM is 160. If one of
+ the number is 32, then the other
+ number is
+ (1) 48 (2) 80
+ (3) 96 (4) 112
+
+Hcf = 16
+Lcm = 160
+one number = 32
+
+16 * 160 / 32
+Ans = 80
+
+ 8. The product of two numbers is
+ 4107. If the H.C.F. of the numbers
+ is 37, the greater number is
+ (1)185 (2)111
+ (3)107 (4)101
+
+Lcm = Product of two number / Hcf
+4107 / 37
+Ans = 111
+
+ 9. The HCF of two numbers is 15
+ and their LCM is 300. If one of
+ the number is 60, the other is :
+ (1)50 (2)75
+ (3)65 (4) 100
+
+Hcf = 15
+Lcm = 300
+one number = 60
+
+15 * 300 / 60
+Ans = 75
+
+ 10.The HCF and LCM of two num
+bers are 12 and 924 respectively.
+ Then the number of such pairsis
+ (1) 0 (2)1
+ (3)2 (4)3
+
+
+ 11. The LCM of two numbers is 30
+ and their HCF is 5. One of the
+ number is 10. The other is
+ (1)20 (2)25
+ (3)15 (4) 5
+
+Lcm = 30
+Hcf = 5
+one number = 10
+
+30 * 5 / 10
+Ans = 15
+
+ 12.The product of two numbers is
+ 1280 and their H.C.F. is 8. The
+ L.C.M. of the number will be :
+ (1)160 (2)150
+ (3)120 (4)140
+
+Lcm = Product of two number / Hcf
+1280 / 8
+Ans = 160
+
+
+13. The H.C.F. and L.C.M. of two
+ numbers are 8 and 48 respec
+tively. If one of the number is 24,
+ then the other number is
+ (1)48 (2) 36
+ (3)24 (4) 16
+
+
+Hcf = 8
+Lcm = 48
+one number = 24
+8 * 48 / 24
+16
+
+
+
