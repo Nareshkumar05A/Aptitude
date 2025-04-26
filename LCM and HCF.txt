@@ -1,5 +1,7 @@
 LCM and HCF
 
+TYPE - I
+
 1. The LCM of two numbers is 864
  and their HCF is 144. If one of
  the number is 288, the other
@@ -155,5 +157,140 @@ one number = 24
 8 * 48 / 24
 16
 
+TYPE - II
+
+ 1. The least number which when
+ divided by 4, 6, 8, 12 and 16
+ leaves a remainder of 2 in each
+ case is :
+ (1)46 (2)48
+ (3)50 (4)56
+
+Ans = 50
+
+ 2. The least number, which when
+ divided by 12, 15, 20 or 54
+ leaves a remainder of 4 in each
+ case, is :
+ (1)450 (2)454
+ (3)540 (4)544
+
+Ans = 554
+
+  3. Find the greatest number of five
+ digits which when divided by 3,
+ 5, 8, 12 have 2 as remainder:
+ (1) 99999 (2) 99958
+ (3) 99960 (4) 99962
+
+Ans = 99962
+
+ 5. A, B, C start running at the same
+ time and at the same point in the
+ same direction in a circular sta
+dium. A completes a round in 252
+ seconds, B in 308 seconds and
+ C in 198 seconds. After what time
+ will they meet again at the start
+ing point ?
+ (1)26 minutes 18 seconds
+ (2)42 minutes 36 seconds
+ (3)45 minutes
+ (4)46 minutes 12 seconds
+
+   2|_252_308_198
+   2|_126_154_99
+   3|_63_77_99
+   7|_63_77_99
+   9|_1_11_11
+  11|_1_11_11
+    |_1_1_1 
+
+2 * 2 * 3 * 7 * 9 * 11 = 2772
+Ans = 46 minutes 12 seconds
+
+ 6. Find the largest number of four
+ digits such that on dividing by 15,
+ 18, 21 and 24 the remainders are
+ 11, 14, 17 and 20 respectively.
+ (1) 6557 (2)7556
+ (3) 5675 (4) 7664
 
 
+ 8. The least number, which when
+ divided by 4, 5 and 6 leaves re
+mainder 1, 2 and 3 respectively,is
+ (1) 57 (2) 59
+ (3) 61 (4) 63
+
+Ans = 57
+
+ 10.Which is the least number which
+ when doubled will be exactly
+ divisible by 12, 18, 21 and 30 ?
+ (1) 2520 (2) 1260
+ (3) 630 (4) 196
+
+ 2 * 3 * 2 * 3 * 7 * 5 = 1260
+
+1260 / 2 = 960
+
+ 11. The smallest square number di
+visible by 10, 16 and 24 is
+ (1) 900 (2) 1600
+ (3) 2500 (4) 3600
+
+2 * 2 * 3 * 3 * 2 * 2 * 5 * 5 = 3600
+
+12. If the students of a class can be
+ grouped exactly into 6 or 8 or
+ 10, then the minimum number
+ of students in the class must be
+ (1) 60 (2) 120
+ (3) 180 (4) 240
+
+2 * 3 * 4 * 5 = 120
+
+
+ 13. The least number which when
+ divided by 4, 6, 8 and 9 leave
+ zero remainder in each case and
+ when divided by 13 leaves a re
+mainder of 7is :
+ (1) 144 (2) 72
+ (3) 36 (4) 85
+
+72 is divisible in 4,6,8,9 by 0
+72 divide by 13 remainder 17
+
+Ans = 72
+
+ 14.The smallest number, which
+ when divided by 12 and 16
+ leaves remainder 5 and 9 respec
+tively, is :
+ (1) 55 (2)41
+ (3) 39 (4)29
+
+12 - 5 = 7
+16 - 7 = 7
+
+lcm is 48
+48 - 7 = 41
+Ans = 41
+
+ 15.A number which when divided by
+ 10 leaves a remainder of 9, when
+ divided by 9 leaves a remainder
+ of 8, and when divided by 8
+ leaves a remainder of 7, is:
+ (1) 1539 (2)539
+ (3) 359 (4)1359
+
+10 - 9 = 1
+9 - 8 = 1
+8 - 7 = 1
+
+lcm is 360
+360 - 1
+Ans = 359
